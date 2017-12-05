@@ -2,6 +2,7 @@
 # pci id
 
 9901 Trinity [Radeon HD 7660D]
+
 9904 Trinity [Radeon HD 7560D]
 990c Richland [Radeon HD 8670D]
 990e Richland [Radeon HD 8570D]
